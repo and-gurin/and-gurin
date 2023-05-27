@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Andrei.
-I know something about it:
+My current stack:
 - HTML/CSS/SCSS
 - JavaScript/TypeScript
 - React/Redux

@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Andrei.
+### Hi there
 My current stack:
 - HTML/CSS/SCSS
 - JavaScript/TypeScript

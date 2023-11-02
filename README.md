@@ -1,7 +1,7 @@
-### Hi there
-My current stack:
-- HTML/CSS/SCSS
+### Front-End Developer
+
 - JavaScript/TypeScript
+- HTML/CSS/BEM
 - React/Redux
 - Axois/RESTful API
 - Git/GitHub
